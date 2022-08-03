@@ -2,21 +2,6 @@
  margin-bottom: 74px;
 }
 
-// .hero-section::after {
-//  content: "";
-//  width: 650px;
-//  height: 650px;
-//  position: absolute;
-//  top: -224px;
-//  right: 0;
-//  display: block;
-//  background-image: url(./../../images/hero-img.png);
-//  background-size: 650px 650px;
-//  background-position: top right;
-//  background-repeat: no-repeat;
-//  z-index: -1;
-// }
-
 .hero {
  @include fl();
 }
